@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilutteri
+- 👋 Hi, I’m Ignacio Lutteri
 - 👀 I’m interested in Coding and Music!
 - 🌱 I’m currently learning Angular, Spring Boot and Node.js!
 - 📫 You can send me an email to ignaciolutteri@gmail.com
